@@ -407,7 +407,7 @@ Need help? Join our support server!
 
 ### 🌟 Star this repository if you find it helpful!
 
-**Bun Code By Ling Neisan from.**
+**Bun Code By Ling Neisan from.titanxdevz Titan X Dev**
 
 **Powered by VexaNode Hosting**
 
