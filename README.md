@@ -407,7 +407,7 @@ Need help? Join our support server!
 
 ### 🌟 Star this repository if you find it helpful!
 
-**Made with ❤️ by Titan X Dev & next-2-beat**
+**Bun Code By Ling Neisan from.**
 
 **Powered by VexaNode Hosting**
 
