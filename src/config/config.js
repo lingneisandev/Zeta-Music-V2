@@ -30,5 +30,19 @@ module.exports = {
       password: 'youshallnotpass',
       secure: false
     }
+    {
+      name: 'Node 2',
+      host: '',
+      port: 0,
+      password: '',
+      secure: false
+    }
+    {
+      name: 'Node 3',
+      host: '',
+      port: 0,
+      password: '',
+      secure: false
+    }
   ],
 };
