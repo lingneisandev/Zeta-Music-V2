@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎵 Zeta Music Node v2
+# 🎵 Zeta Music v2
 
 ### High-Quality • Fast • Reliable Discord Music Bot
 
