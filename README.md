@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎵 Lunexa Music Bot
+# 🎵 Zeta Music Node v2
 
 ### High-Quality • Fast • Reliable Discord Music Bot
 
