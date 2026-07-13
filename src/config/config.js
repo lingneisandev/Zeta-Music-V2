@@ -46,7 +46,7 @@ module.exports = {
       host: '',
       port: 0,
       password: '',
-      secure: 
+      secure: true
     }
   ],
 };
