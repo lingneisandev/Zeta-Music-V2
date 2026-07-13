@@ -30,19 +30,23 @@ module.exports = {
       password: 'youshallnotpass',
       secure: false
     }
+  ],
+  nodes: [
     {
       name: 'Node 2',
       host: '',
       port: 0,
       password: '',
-      secure: false
+      secure: true
     }
+  ],
+  nodes: [
     {
       name: 'Node 3',
       host: '',
       port: 0,
       password: '',
-      secure: false
+      secure: 
     }
   ],
 };
