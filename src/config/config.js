@@ -34,18 +34,18 @@ module.exports = {
   nodes: [
     {
       name: 'Node 2',
-      host: '',
-      port: 0,
-      password: '',
+      host: 'lavalinkv4.serenetia.com',
+      port: 443,
+      password: 'https://dsc.gg/ajidevserver',
       secure: true
     }
   ],
   nodes: [
     {
       name: 'Node 3',
-      host: '',
-      port: 0,
-      password: '',
+      host: 'lava-v4.millohost.my.id',
+      port: 443,
+      password: 'https://discord.gg/mjS5J2K3ep',
       secure: true
     }
   ],
