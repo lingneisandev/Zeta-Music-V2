@@ -1,7 +1,7 @@
 module.exports = {
   token:
     process.env.token || "",
-  prefix: ".",
+  prefix: "z!",
   color: "#bb00ff",
   Mongo: "",
   ownerIDS: [""],
