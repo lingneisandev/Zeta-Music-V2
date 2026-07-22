@@ -11,7 +11,7 @@
 
 *Lunexa is a modern, powerful Discord music bot designed for smooth playback, high performance, and full automation. Built to handle large Discord servers with stability, speed, and crystal-clear audio quality.*
 
-[Invite Bot](https://discord.com/oauth2/authorize?client_id=YOUR_BOT_ID&permissions=8&integration_type=0&scope=bot) • [Support Server](https://discord.gg/KyzAgk2GUr) • [Hosting](https://discord.vexanode.cloud)
+[Invite Bot](https://discord.com/oauth2/authorize?client_id=1420900418673836092&permissions=8&integration_type=0&scope=bot) • [Support Server](https://discord.gg/VMbqMG7nUq) • [Hosting](https://discord.vexanode.cloud)
 
 </div>
 
@@ -289,7 +289,7 @@ MONGO_URI=mongodb://localhost:27017/lunexa
 
 **Bot not responding to commands**
 - Check if bot has proper permissions in the server
-- Verify the prefix is correct (`!` by default)
+- Verify the prefix is correct (`z!` by default)
 - Ensure bot is online and connected
 
 **Music not playing**
@@ -352,6 +352,8 @@ You are free to:
 **Modified & Enhanced By**
 - **Titan X Dev** - Enhanced Features & Modifications
 - Support Server: [https://discord.gg/KyzAgk2GUr](https://discord.gg/KyzAgk2GUr)
+- **Ling Neisan Dev** - Enhanced Public Lavalink Server & Modifications
+- Support Server: [https://discord.gg/VMbqMG7nUq](https://discord.gg/VMbqMG7nUq)
 
 ### Hosting Partner
 
