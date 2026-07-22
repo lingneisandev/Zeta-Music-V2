@@ -4,7 +4,7 @@
 
 ### High-Quality • Fast • Reliable Discord Music Bot
 
-[![Discord](https://img.shields.io/badge/Discord-Support-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KyzAgk2GUr)
+[![Discord](https://img.shields.io/badge/Discord-Support-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VMbqMG7nUq)
 [![Hosting](https://img.shields.io/badge/Hosting-VexaNode-5865F2?style=for-the-badge)](https://discord.vexanode.cloud)
 [![Node.js](https://img.shields.io/badge/Node.js-v20+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
