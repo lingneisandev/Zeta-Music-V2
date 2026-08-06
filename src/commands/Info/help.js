@@ -46,7 +46,7 @@ Hey **${message.author.username}**, I am **${client.user.username} Music**
 
 > <:dott:1465278177105678429> **Prefix:** \`${prefix}\`
 > <:dott:1465278177105678429> **Total Commands:** \`${totalCmds}\`
-> <:dott:1465278177105678429> **Developer** <@1383706658315960330>
+> <:dott:1465278177105678429> **Developer** <@859051097820889098>
 
 __Select a category from below__
 `)
