@@ -24,25 +24,21 @@ module.exports = {
   spotiSecret: "",
   nodes: [
     {
-      name: 'Node 1',
+      name: 'Lava 1',
       host: 'lavalink.jirayu.net',
       port: 13592,
       password: 'youshallnotpass',
       secure: false
-    }
-  ],
-  nodes: [
+    },
     {
-      name: 'Node 2',
+      name: 'Lava 2',
       host: 'lavalinkv4.serenetia.com',
       port: 443,
       password: 'https://dsc.gg/ajidevserver',
       secure: true
-    }
-  ],
-  nodes: [
+    },
     {
-      name: 'Node 3',
+      name: 'Lava 3',
       host: 'lava-v4.millohost.my.id',
       port: 443,
       password: 'https://discord.gg/mjS5J2K3ep',
