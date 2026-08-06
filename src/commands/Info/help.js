@@ -112,9 +112,9 @@ __Select a category from below__
         .setStyle(ButtonStyle.Primary),
 
       new ButtonBuilder()
-        .setLabel("Hosting")
+        .setLabel("Server Support")
         .setStyle(ButtonStyle.Link)
-        .setURL("https://discord.vexanode.cloud")
+        .setURL("https://discord.gg/VMbqMG7nUq")
     );
 
     const msg = await message.channel.send({
