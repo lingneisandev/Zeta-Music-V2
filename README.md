@@ -251,18 +251,18 @@ MONGO_URI=mongodb://localhost:27017/lunexa
 ### Music Commands
 | Command | Description | Usage |
 |---------|-------------|-------|
-| `play` | Play a song or playlist | `!play <song name/url>` |
-| `pause` | Pause the current track | `!pause` |
-| `resume` | Resume playback | `!resume` |
-| `skip` | Skip to next track | `!skip` |
-| `stop` | Stop playback and clear queue | `!stop` |
-| `queue` | Show current queue | `!queue` |
-| `nowplaying` | Show current track | `!nowplaying` |
-| `volume` | Set volume (0-150) | `!volume <number>` |
-| `shuffle` | Shuffle the queue | `!shuffle` |
-| `loop` | Toggle loop mode | `!loop <track/queue/off>` |
-| `autoplay` | Toggle autoplay | `!autoplay` |
-| `lyrics` | Show song lyrics | `!lyrics` |
+| `play` | Play a song or playlist | `z!play <song name/url>` |
+| `pause` | Pause the current track | `z!pause` |
+| `resume` | Resume playback | `z!resume` |
+| `skip` | Skip to next track | `z!skip` |
+| `stop` | Stop playback and clear queue | `z!stop` |
+| `queue` | Show current queue | `z!queue` |
+| `nowplaying` | Show current track | `z!nowplaying` |
+| `volume` | Set volume (0-150) | `z!volume <number>` |
+| `shuffle` | Shuffle the queue | `z!shuffle` |
+| `loop` | Toggle loop mode | `z!loop <track/queue/off>` |
+| `autoplay` | Toggle autoplay | `z!autoplay` |
+| `lyrics` | Show song lyrics | `z!lyrics` |
 
 ### Filter Commands
 | Command | Description |
@@ -278,9 +278,9 @@ MONGO_URI=mongodb://localhost:27017/lunexa
 ### Configuration Commands
 | Command | Description | Usage |
 |---------|-------------|-------|
-| `setup` | Setup music request channel | `!setup` |
-| `prefix` | Change bot prefix | `!prefix <new prefix>` |
-| `dj` | Set DJ role | `!dj <role>` |
+| `setup` | Setup music request channel | `z!setup` |
+| `prefix` | Change bot prefix | `z!prefix <new prefix>` |
+| `dj` | Set DJ role | `z!dj <role>` |
 
 ---
 
