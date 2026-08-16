@@ -68,7 +68,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/titanxdevz/Lunexa.git
+   git clone https://github.com/lingneisandev/Zeta-Music-V2
    cd Lunexa
    ```
 
@@ -120,7 +120,7 @@ Before you begin, ensure you have the following installed:
      
      // Bot Settings
      color: "#5865F2",
-     invite: "https://discord.gg/KyzAgk2GUr",
+     invite: "https://discord.gg/VMbqMG7nUq",
      
      // Top.gg
      topgg_Api: process.env.TOPGG_API_KEY,
@@ -149,7 +149,7 @@ Before you begin, ensure you have the following installed:
 - ✅ Affordable Pricing
 - ✅ Expert Support
 
-**Get Started:** [https://discord.vexanode.cloud](https://discord.vexanode.cloud)
+**Get Started:** [https://vexanode.cloud](https://vexanode.cloud/)
 
 ### Self-Hosting Options
 
@@ -352,9 +352,9 @@ You are free to:
 
 **Modified & Enhanced By**
 - **Titan X Dev** - Enhanced Features & Modifications
-- Support Server: [https://discord.gg/KyzAgk2GUr](https://discord.gg/KyzAgk2GUr)
+- Support Server: [https://discord.gg/vexanodefreehosting](https://discord.gg/KyzAgk2GUr)
 - **Ling Neisan Dev** - Enhanced Public Lavalink Server & Modifications
-- Support Server: [https://discord.gg/VMbqMG7nUq](https://discord.gg/VMbqMG7nUq)
+- Support Server: [https://discord.gg/hololivehelperdevelopment](https://discord.gg/VMbqMG7nUq)
 
 ### Hosting Partner
 
@@ -377,9 +377,9 @@ You are free to:
 
 Need help? Join our support server!
 
-[![Discord Banner](https://api.weblutions.com/discord/invite/KyzAgk2GUr/)](https://discord.gg/KyzAgk2GUr)
+[![Discord Banner](https://api.weblutions.com/discord/invite/VMbqMG7nUq/)](https://discord.gg/VMbqMG7nUq)
 
-**Support Server:** [https://discord.gg/KyzAgk2GUr](https://discord.gg/KyzAgk2GUr)
+**Support Server:** [https://discord.gg/holobivehelperdevelopment](https://discord.gg/VMbqMG7nUq)
 
 **Hosting Support:** [https://discord.vexanode.cloud](https://discord.vexanode.cloud)
 
