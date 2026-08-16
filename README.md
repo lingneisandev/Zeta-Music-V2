@@ -412,7 +412,7 @@ Need help? Join our support server!
 
 **Bun Code By Ling Neisan from.titanxdevz Titan X Dev**
 
-**Performance by VexaNode Hosting**
+**Hosting Recommended in a Vexanode and Subscribe free this is a channel YouTube now**
 
 [⬆ Back to Top](#-lunexa-music-bot)
 
