@@ -12,7 +12,7 @@
 
 *Zeta Music is a modern, powerful Discord music bot designed for smooth playback, high performance, and full automation. Built to handle large Discord servers with stability, speed, and crystal-clear audio quality.*
 
-[Invite Bot](https://discord.com/oauth2/authorize?client_id=1420900418673836092&permissions=8&integration_type=0&scope=bot) • [Support Server](https://discord.gg/VMbqMG7nUq) • [Hosting](https://discord.vexanode.cloud)
+[Invite Bot](https://discord.com/oauth2/authorize?client_id=1420900418673836092&permissions=8&integration_type=0&scope=bot) • [Support Server](https://discord.gg/VMbqMG7nUq) • [Hosting](https://discord.vexanode.cloud) • [Subscribe](https://www.youtube.com/@LingNeisan)
 
 </div>
 
