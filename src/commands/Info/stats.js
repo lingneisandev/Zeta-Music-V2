@@ -32,7 +32,7 @@ module.exports = {
       const cpuLoad = os.loadavg()[0].toFixed(2);
       const users = 0;
       const totalUsers = client.guilds.cache.reduce((acc, g) => acc + g.memberCount, 0) + users;
-      const embedColor = "#bb00ff";
+      const embedColor = "#00ccff";
       const botAvatar = client.user.displayAvatarURL({ dynamic: true, size: 1024 });
       const footerData = { text: `Requested by ${message.author.tag}`, iconURL: message.author.displayAvatarURL() };
 
@@ -108,8 +108,8 @@ module.exports = {
           "<@1383706658315960330>\n\n" +
           "**Host:**\n" +
           "VexaNode Host\n\n" +
-          "**Discord:** [Hosting](https://discord.vexanode.cloud)\n" +
-          "**Discord:** [Support](https://discord.gg/KyzAgk2GUr)\n" +
+          "**Web Hosting:** [Hosting](https://vexanode.cloud/)\n" +
+          "**Discord:** [Support](https://discord.gg/VMbqMG7nUq)\n" +
           `**Invite Bot:** [Invite](https://discord.com/oauth2/authorize?client_id=${client.user.id}&permissions=8&integration_type=0&scope=bot)`
         )
         .setFooter(footerData)
