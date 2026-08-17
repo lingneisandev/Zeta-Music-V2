@@ -39,7 +39,7 @@ module.exports = {
     },
     {
       name: 'Lava 3',
-      host: 'lava-v4.millohost.my.id',
+      host: 'lava4.millohost.my.id',
       port: 443,
       password: 'https://discord.gg/mjS5J2K3ep',
       secure: true
