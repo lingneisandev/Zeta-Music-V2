@@ -21,7 +21,7 @@ module.exports = {
         .setLabel("Vote On DBL")
         .setStyle(ButtonStyle.Link)
         .setEmoji("<a:dance:1465287682728136849>")
-        .setURL(`https://discord.gg/KyzAgk2GUr`)
+        .setURL(`https://discord.gg/VMbqMG7nUq`)
     );
     const embed = new EmbedBuilder()
     .setAuthor({
