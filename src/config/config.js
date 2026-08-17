@@ -43,6 +43,13 @@ module.exports = {
       port: 443,
       password: 'https://discord.gg/mjS5J2K3ep',
       secure: true
+    },
+    {
+      name: 'Lava 4',
+      host: 'lavalink.jirayu.net',
+      port: 443,
+      password: 'youshallnotpass',
+      secure: true
     }
   ],
 };
