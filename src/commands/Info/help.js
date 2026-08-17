@@ -35,7 +35,7 @@ module.exports = {
     const totalCmds = Object.values(categories).flat().length;
 
     const overviewEmbed = new EmbedBuilder()
-      .setColor("#bb00ff")
+      .setColor("#00f7ff")
       .setAuthor({
         name: `${client.user.username} Help Module`,
         iconURL: client.user.displayAvatarURL(),
