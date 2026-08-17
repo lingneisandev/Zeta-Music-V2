@@ -8,7 +8,7 @@ module.exports = {
   category: "Info",
   run: async (client, message, args) => {
     try {
-      const msg = await message.channel.send("Pinging...");
+      const msg = await message.channel.send("Loadings...");
 
       // Bot latency
       const botLatency = msg.createdTimestamp - message.createdTimestamp;
