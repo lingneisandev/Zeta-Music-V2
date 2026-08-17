@@ -105,7 +105,7 @@ module.exports = {
         .setImage(teamImage)
         .setDescription(
           "**Lead Developer:**\n" +
-          "<@1383706658315960330>\n\n" +
+          "<@859051097820889098>\n\n" +
           "**Host:**\n" +
           "VexaNode Host\n\n" +
           "**Web Hosting:** [Hosting](https://vexanode.cloud/)\n" +
