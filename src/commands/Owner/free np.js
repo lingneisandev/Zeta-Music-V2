@@ -32,7 +32,7 @@ module.exports = {
           "> You can claim this reward **only once.**\n\n" +
           "> Click the button below to redeem it instantly!"
       )
-      .setColor("#8A2BE2")
+      .setColor("#001aff")
       .setThumbnail(client.user.displayAvatarURL())
       .setImage("https://media.discordapp.net/attachments/1392487471370997761/1433841399110828204/Profile_Banner.png?ex=6906d11d&is=69057f9d&hm=c804d57f24d5e4314806a2cfd2aee0c0eb9835a9da6885474e44e948d78ac68c&=&format=webp&quality=lossless&width=544&height=192") // change to your banner
       .setFooter({
@@ -61,7 +61,7 @@ module.exports = {
         const userData = await NoPrefix.findOne({ userId: interaction.user.id });
         if (userData) {
           const alreadyEmbed = new EmbedBuilder()
-            .setColor("#FF0000")
+            .setColor("#d400ff")
             .setTitle("Already Claimed!")
             .setDescription(
               "You’ve already claimed your **7-day No Prefix** reward!"
@@ -84,7 +84,7 @@ module.exports = {
         });
 
         const successEmbed = new EmbedBuilder()
-          .setColor("#57F287")
+          .setColor("#00ff00")
           .setTitle("Reward Redeemed!")
           .setDescription(
             `You’ve successfully activated your **7-day No Prefix** access!\n\n` +
