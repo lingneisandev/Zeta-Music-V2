@@ -74,19 +74,19 @@ module.exports = async (client, track) => {
 
       const embed = new EmbedBuilder()
         .setAuthor({
-          name: "Lunexa Music Queue Finished",
+          name: "Zeta music Music Queue Finished",
           iconURL: client.user.displayAvatarURL(),
         })
         .setColor(client.color)
         .setDescription(
           `> The music queue has now reached its end.\n\n` +
-          `> Thank you for vibing with **Lunexa**! 💜\n\n` +
-          `> Invite Lunexa to more servers or join our support server to stay updated:\n\n` +
-          `> [Invite Lunexa](https://discord.com/oauth2/authorize?client_id=${client.user.id}&permissions=8&integration_type=0&scope=bot)\n` +
-          `> [Join Support Server](https://discord.gg/KyzAgk2GUr)`
+          `> Thank you for vibing with **Zeta Music**! 💜\n\n` +
+          `> Invite Zeta Music to more servers or join our support server to stay updated:\n\n` +
+          `> [Invite Zeta Music](https://discord.com/oauth2/authorize?client_id=${client.user.id}&permissions=8&integration_type=0&scope=bot)\n` +
+          `> [Join Support Server](https://discord.gg/VMbqMG7nUq)`
         )
         .setFooter({
-          text: "VexaNode Hosting",
+          text: "Hololive Helper Development",
           iconURL: client.user.displayAvatarURL(),
         })
         .setImage(
