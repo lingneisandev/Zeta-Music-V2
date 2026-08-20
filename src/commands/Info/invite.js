@@ -19,7 +19,7 @@ module.exports = {
       .setColor("#00eeff")
       .setTitle("Invite ${client.user.username}")
       .setDescription("Invite me to your server for **high-quality music!**")// Thumbnail
-      .setImage("https://media.discordapp.net/attachments/1390938110929666058/1434405765321592842/Profile_Banner_1.png?ex=69160db8&is=6914bc38&hm=24021a82e0971cf99909b370a583dfb5f84aeb133d99bc38c03c983a499600e7&=&format=webp&quality=lossless&width=304&height=54"); // Banner Image
+      .setImage("https://i.imgur.com/SPtXR9d.png"); // Banner Image
 
     const row = new ActionRowBuilder().addComponents(
       new ButtonBuilder()
