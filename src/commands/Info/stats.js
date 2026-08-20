@@ -37,7 +37,7 @@ module.exports = {
       const footerData = { text: `Requested by ${message.author.tag}`, iconURL: message.author.displayAvatarURL() };
 
       // Images for each embed - replace these URLs with your own
-      const generalImage = "https://media.discordapp.net/attachments/1390938110929666058/1434405765321592842/Profile_Banner_1.png?ex=690835f8&is=6906e478&hm=7bf38aa8b4440c4eb835ee29299ad57feffb288078f5a90e7e2406b5cdf4efa9&=&format=webp&quality=lossless&width=304&height=54";
+      const generalImage = "https://i.imgur.com/SPtXR9d.png";
       const nodeImage = generalImage; // same image, can change if you want
       const teamImage = generalImage; // same image, can change if you want
 
@@ -107,7 +107,7 @@ module.exports = {
           "**Lead Developer:**\n" +
           "<@859051097820889098>\n\n" +
           "**Host:**\n" +
-          "VexaNode Host\n\n" +
+          "VexaNode\n\n" +
           "**Web Hosting:** [Hosting](https://vexanode.cloud/)\n" +
           "**Discord:** [Support](https://discord.gg/VMbqMG7nUq)\n" +
           `**Invite Bot:** [Invite](https://discord.com/oauth2/authorize?client_id=${client.user.id}&permissions=8&integration_type=0&scope=bot)`
