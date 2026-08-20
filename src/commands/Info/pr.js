@@ -97,7 +97,7 @@ module.exports = {
           inline: true
         }
       )
-      .setImage("https://media.discordapp.net/attachments/1392487471370997761/1433821596895805631/Add_a_heading.png?ex=690615eb&is=6904c46b&hm=681bc5a18d6d89ef74e026e5a2a4e71869b469242ca4981c1ddb1cbbd0f5a806&=&format=webp&quality=lossless&width=702&height=278") // Replace with your custom banner URL
+      .setImage("https://i.imgur.com/SPtXR9d.png") // Replace with your custom banner URL
       .setFooter({
         text: `Requested by ${message.author.username} | Powered by ${client.user.username}`,
         iconURL: client.user.displayAvatarURL({ dynamic: true })
@@ -110,12 +110,12 @@ module.exports = {
         .setLabel("Join Support Server")
         .setStyle(ButtonStyle.Link)
         .setEmoji("<a:supporter:1341062737727459411>")
-        .setURL("https://discord.gg/KyzAgk2GUr"),
+        .setURL("https://discord.gg/VMbqMG7nUq"),
       new ButtonBuilder()
         .setLabel("Vote for Us")
         .setStyle(ButtonStyle.Link)
         .setEmoji("<:support:1465282678856220682>")
-        .setURL("https://discord.gg/KyzAgk2GUr")
+        .setURL("https://discord.gg/VMbqMG7nUq")
     );
 
     return message.reply({ embeds: [embed], components: [row] });
