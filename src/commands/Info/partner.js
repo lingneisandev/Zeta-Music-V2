@@ -16,10 +16,16 @@ module.exports = {
       .setDescription(`**VexaNode Hosting - Best Premium and Affordable Hosting**`);
 
     const button = new ButtonBuilder()
-      .setLabel(`Server`)
+      .setLabel(`Hosting`)
       .setStyle(ButtonStyle.Link)
       .setEmoji("<:support:1465282678856220682>")
       .setURL(`https://vexanode.cloud`);
+
+    const button = new ButtonBuilder()
+      .setLabel(`Server & Free Hosting`)
+      .setStyle(ButtonStyle.Link)
+      .setEmoji("<:support:1465282678856220682>")
+      .setURL(`https://discord.vexanode.cloud`);
 
     const row = new ActionRowBuilder().addComponents(button);
 
