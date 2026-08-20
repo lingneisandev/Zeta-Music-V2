@@ -76,7 +76,7 @@ __Select a category from below__
           inline: true,
         },
       )
-      .setImage("https://media.discordapp.net/attachments/1390938110929666058/1434405765321592842/Profile_Banner_1.png")
+      .setImage("https://i.imgur.com/SPtXR9d.png")
       .setFooter({
         text: `${client.user.username} is Love`,
         iconURL: message.author.displayAvatarURL(),
@@ -156,7 +156,7 @@ __Select a category from below__
           .setDescription(
             cmds.length ? cmds.map(c => `\`${c}\``).join(", ") : "_No commands available_"
           )
-          .setImage("https://media.discordapp.net/attachments/1390938110929666058/1434405765321592842/Profile_Banner_1.png")
+          .setImage("https://i.imgur.com/SPtXR9d.png")
           .setFooter({
             text: "Use dropdown to switch categories.",
             iconURL: interaction.user.displayAvatarURL(),
@@ -186,7 +186,7 @@ __Select a category from below__
               inline: false,
             }))
           )
-          .setImage("https://media.discordapp.net/attachments/1392487471370997761/1433841399110828204/Profile_Banner.png")
+          .setImage("https://i.imgur.com/SPtXR9d.png")
           .setFooter({
             text: `${client.user.username} is Love`,
             iconURL: message.author.displayAvatarURL(),
