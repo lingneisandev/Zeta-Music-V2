@@ -43,11 +43,12 @@ function clearConsole() {
 
 function printTitanAscii() {
   const titanArt = `
-████████ ██ ████████  █████  ███    ██     ██   ██     ██████  ███████ ██    ██ 
-   ██    ██    ██    ██   ██ ████   ██      ██ ██      ██   ██ ██      ██    ██ 
-   ██    ██    ██    ███████ ██ ██  ██       ███       ██   ██ █████   ██    ██ 
-   ██    ██    ██    ██   ██ ██  ██ ██      ██ ██      ██   ██ ██       ██  ██  
-   ██    ██    ██    ██   ██ ██   ████     ██   ██     ██████  ███████   ████   
+███████╗███████╗████████╗██████╗     ██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗ 
+╚══███╔╝██╔════╝╚══██╔══╝██╔══██╗    ██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗
+  ███╔═╝ █████╗     ██║   ███████║    ██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝
+ ███╔═╝  ██╔══╝     ██║   ██╔══██╗    ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗
+███████╗███████╗    ██║   ██║  ██║    ██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║
+╚══════╝╚══════╝    ╚═╝   ╚═╝  ╚═╝    ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
 `;
 
   console.log(colors.CYAN(titanArt));
@@ -72,7 +73,7 @@ function showDesignerConsole(client) {
 
     // Bot header with enhanced styling
     lines.push(colors.BOLD(colors.PURPLE(`╔═══════════════════════════════════════════════════════════╗`)));
-    lines.push(colors.BOLD(colors.PURPLE(`║`) + colors.CYAN(`          ♪ ${client.user?.username || 'Bot'} Music System ♪          `) + colors.PURPLE(`║`)));
+    lines.push(colors.BOLD(colors.PURPLE(`║`) + colors.CYAN(`          ♪ ${client.user?.username || 'Bot'} Console System ♪          `) + colors.PURPLE(`║`)));
     lines.push(colors.BOLD(colors.PURPLE(`╚═══════════════════════════════════════════════════════════╝`)));
     lines.push('');
 
