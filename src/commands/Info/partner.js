@@ -19,7 +19,7 @@ module.exports = {
       .setLabel(`Server`)
       .setStyle(ButtonStyle.Link)
       .setEmoji("<:support:1465282678856220682>")
-      .setURL(`https://discord.vexanode.cloud`);
+      .setURL(`https://vexanode.cloud`);
 
     const row = new ActionRowBuilder().addComponents(button);
 
