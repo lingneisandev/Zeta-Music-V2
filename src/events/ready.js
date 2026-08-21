@@ -155,11 +155,11 @@ module.exports = async (client) => {
 
     // Presence Rotation System
     const activities = [
-      { name: ".help | VexaNode", type: ActivityType.Listening },
-      { name: "Titan X Dev", type: ActivityType.Listening },
+      { name: "z!help | Hololive Helper Development", type: ActivityType.Listening },
+      { name: "Powerfull Free Music **Generate BY Ling Neisan", type: ActivityType.Listening },
     ];
 
-    const statuses = ["dnd", "dnd"];
+    const statuses = ["idle", "idle"];
     let activityIndex = 0;
     let statusIndex = 0;
 
