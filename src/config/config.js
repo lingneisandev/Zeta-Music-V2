@@ -3,7 +3,7 @@ module.exports = {
     process.env.token || "",
   prefix: "z!",
   color: "#00eeff",
-  Mongo: "mongodb+srv://unitylevelstar_db_user:Hk7jTnvkT7jl1McM@cluster0.ez5cdtt.mongodb.net/?appName=Cluster0",
+  Mongo: process.env.MONGO_URI || process.env.Mongo || "",
   ownerIDS: ["859051097820889098"],
   vote: false,
   image: "https://media.discordapp.net/attachments/1392487471370997761/1433841399110828204/Profile_Banner.png?ex=6906285d&is=6904d6dd&hm=be6fb1bef07b8641d8501a618ffca7068822a299f8f7733e6d6bae741c646b99&=&format=webp&quality=lossless&width=544&height=192",
