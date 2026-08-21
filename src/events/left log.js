@@ -21,7 +21,7 @@ module.exports = async (client) => {
       const totalGuilds = client.guilds.cache.size;
 
       // ========== Custom Banner ==========
-      const bannerURL = "https://media.discordapp.net/attachments/1390938110929666058/1434405765321592842/Profile_Banner_1.png?ex=69175f38&is=69160db8&hm=469fde8bb5d4acc76fb9ae576d2d54286f2e0d070bdb7381cf7430c71b1daa09&=&format=webp&quality=lossless&width=304&height=54"; // Replace this with your image
+      const bannerURL = "https://i.imgur.com/SPtXR9d.png"; // Replace this with your image
 
       // ========== Embed ==========
       const em = new EmbedBuilder()
