@@ -73,7 +73,7 @@ module.exports = async (client) => {
 > Use **\`${prefix}help\`** to see all my commands.
 
 Hello ${message.author}, Thanks for Using ${client.user.username}`)
-          .setImage("https://media.discordapp.net/attachments/1390938110929666058/1434405765321592842/Profile_Banner_1.png")
+          .setImage("https://i.imgur.com/SPtXR9d.png")
           .setFooter({
             text: `${client.user.username} is Love`,
             iconURL: message.author.displayAvatarURL(),
@@ -128,7 +128,7 @@ Hello ${message.author}, Thanks for Using ${client.user.username}`)
                 .setColor(client.color)
                 .setTitle("Premium Required")
                 .setDescription(
-                  `Hello, ${message.author}!\nYou've discovered an exclusive **premium command**.\n\n[Click here to upgrade](https://discord.gg/KyzAgk2GUr)`
+                  `Hello, ${message.author}!\nYou've discovered an exclusive **premium command**.\n\n[Click here to upgrade](https://discord.gg/VMbqMG7nUq)`
                 ),
             ],
           });
